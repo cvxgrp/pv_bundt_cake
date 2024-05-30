@@ -55,6 +55,6 @@ To reproduce the results using the notebook, the following packages are required
 You can obtain a free MOSEK license by visiting their website.
 
 ## Usage
-Clone the repository and install the required packages using pip.
+Clone the repository and install the required packages using pip.  
 Then launch pv_bundt_cake_analysis.ipynb file and sequnetially execute cells.
 
