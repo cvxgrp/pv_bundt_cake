@@ -56,5 +56,5 @@ You can obtain a free MOSEK license by visiting their website.
 
 ## Usage
 Clone the repository and install the required packages using pip.  
-Then launch pv_bundt_cake_analysis.ipynb file and sequnetially execute cells.
+Then launch pv_bundt_cake_analysis.ipynb file and sequentially execute cells.
 
