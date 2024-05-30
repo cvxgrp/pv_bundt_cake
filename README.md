@@ -31,12 +31,12 @@ angle corresponding to the day. The outer ring corresponds to PV sunrise and the
 inner ring corresponds to PV sunset. The angle corresponds to the day of the year. 
 For obvious reasons we call this a Bundt cake plot.
 
-![Bundt Cake Plot](figs/cake.pdf)
+![Bundt Cake Plot](figs/cake.png)
 
 ### Figure 2: Toast Plot
 An alternative 2D visualization uses a heat map on an annulus.
 
-![Toast Plot](figs/toast.pdf)
+![Toast Plot](figs/toast.png)
 
 ## Dependencies
 To reproduce the results using the notebook, the following packages are required:
